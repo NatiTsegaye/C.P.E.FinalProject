@@ -1,0 +1,12 @@
+{
+    "type": "xapp_token",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6IiIsInN1YmplY3RfYXBwbGljYXRpb24iOiI2MmE2N2M5N2QxY2MwMzAwMGRmYzVlNjUiLCJleHAiOjE2NTU2ODI4NDAsImlhdCI6MTY1NTA3ODA0MCwiYXVkIjoiNjJhNjdjOTdkMWNjMDMwMDBkZmM1ZTY1IiwiaXNzIjoiR3Jhdml0eSIsImp0aSI6IjYyYTY3Yzk4NWM0ZjUwMDAwYjJiOWQzZCJ9.Jqoj2fGnjhmpxOV8Rl8LOVlLSafdkJdDXrNDsxqZ5bk",
+    "expires_at": "2022-06-19T23:54:00+00:00",
+    "_links": {}
+}
+
+
+
+
+Api access key:	 	ee0fa8a6d8fa4090
+Api secret key:	 	b1efe0c1c7b157ab

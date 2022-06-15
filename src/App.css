@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+}
+.App {
+  background-color: #111;
+  height: 100%;
+  min-height: 100vh;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.original {
+  min-height: 40vh;
+  flex: 3;
+  border: solid;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.display {
+  min-height: 40vh;
+  border: solid;
+  flex: 4;
+}
+
+.input {
+  min-height: 5vh;
+  padding: 30px;
+}
+
+.url {
+  width: 20%;
+}
+
+/* .ojimage {
+  width: 25%;
+  height: auto;
+} */
+
+.generate {
+  margin: 20px;
+}
